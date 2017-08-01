@@ -1,21 +1,20 @@
 {
     "name":"Sunset",
     "widgetVersion": 2,
-    "thumbnail":"sunset.png",
+    "thumbnail":"entrepreneur.png",
     "pageTypes": [ "home" ],
-    "screenshot":"sunset-screenshot.jpg",
+    "screenshot":"entrepreneur-screenshot.jpg",
      "images":[
-        "images/image-1.jpg",
-        "images/image-2.jpg",
-        "images/image-3.jpg",
-        "images/image-4.jpg",
-        "images/image-5.jpg",
-        "images/image-6.jpg",
-        "images/image-7.jpg",
-        "images/image-8.jpg",
-        "images/image-9.jpg",
-        "images/image-10.jpg"
-
+        "images/template-images/cloud-image-1.jpg",
+        "images/template-images/cloud-image-2.jpg",
+        "images/template-images/cloud-image-3.jpg",
+        "images/template-images/cloud-image-4.jpg",
+        "images/template-images/cloud-image-5.jpg",
+        "images/template-images/cloud-image-6.jpg",
+        "images/template-images/cloud-image-7.jpg",
+        "images/template-images/cloud-image-8.jpg",
+        "images/template-images/cloud-image-9.jpg",
+        "images/template-images/cloud-image-10.jpg"
     ],
     "colorSwatches":
     {
@@ -119,7 +118,7 @@
     },
     "styles": {
         "colors": {
-            "color__primary": "#C72E23",
+            "color__primary": "#167c80",
             "color__secondary": "#f5f6f7"
         },
         "site": {
@@ -142,25 +141,25 @@
             "font__h1--font-weight": "@font-swatch1-font-weight",
             "font__h1--line-height": "48px",
             "font__h1--letter-spacing": "@font-swatch1-letter-spacing",
-            "color__h1--text": "#3a3434",
+            "color__h1--text": "#303c39",
             "font__h2--font-family" : "@font-swatch2-font-family",
             "font__h2--font-size" : "36px",
             "font__h2--font-weight" : "400",
             "font__h2--line-height" : "46px",
             "font__h2--letter-spacing" : "inherit",
-            "color__h2--text": "#3a3434",
+            "color__h2--text": "#303c39",
             "font__h3--font-family" : "@font-swatch3-font-family",
             "font__h3--font-size" : "22px",
             "font__h3--font-weight" : "@font-swatch3-font-weight",
             "font__h3--line-height" : "34px",
             "font__h3--letter-spacing" : "inherit",
-            "color__h3--text": "#3a3434",
+            "color__h3--text": "#303c39",
             "font__h4--font-family" : "@font-swatch4-font-family",
             "font__h4--font-size" : "@font-swatch4-font-size",
             "font__h4--font-weight" : "@font-swatch4-font-weight",
             "font__h4--line-height" : "@font-swatch4-line-height",
             "font__h4--letter-spacing" : "@font-swatch4-letter-spacing",
-            "color__h4--text": "#3a3434",
+            "color__h4--text": "#303c39",
             "font__p--font-family" : "@font-swatch5-font-family",
             "font__p--font-size" : "15px",
             "font__p--font-weight" : "400",
