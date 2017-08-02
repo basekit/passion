@@ -1,10 +1,10 @@
 {
-    "name":"Sunset",
+    "name":"Entrepreneur",
     "widgetVersion": 2,
     "thumbnail":"entrepreneur.png",
     "pageTypes": [ "home" ],
     "screenshot":"entrepreneur-screenshot.jpg",
-     "images":[
+    "images":[
         "images/template-images/cloud-image-1.jpg",
         "images/template-images/cloud-image-2.jpg",
         "images/template-images/cloud-image-3.jpg",
