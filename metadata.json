@@ -1,9 +1,9 @@
 {
     "name":"Passion",
     "widgetVersion": 2,
-    "thumbnail":"entrepreneur.png",
+    "thumbnail":"passion.png",
     "pageTypes": [ "home" ],
-    "screenshot":"entrepreneur-screenshot.jpg",
+    "screenshot":"passion-screenshot.jpg",
     "images":[
         "images/template-images/store-image-1.jpg",
         "images/template-images/store-image-2.jpg",

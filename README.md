@@ -1,2 +1,2 @@
-# sunset
-BaseKit / Amazon.jp Sunset Template
+# passion
+BaseKit / Amazon.jp Template
