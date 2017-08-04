@@ -1,20 +1,20 @@
 {
-    "name":"Entrepreneur",
+    "name":"Passion",
     "widgetVersion": 2,
     "thumbnail":"entrepreneur.png",
     "pageTypes": [ "home" ],
     "screenshot":"entrepreneur-screenshot.jpg",
     "images":[
-        "images/template-images/cloud-image-1.jpg",
-        "images/template-images/cloud-image-2.jpg",
-        "images/template-images/cloud-image-3.jpg",
-        "images/template-images/cloud-image-4.jpg",
-        "images/template-images/cloud-image-5.jpg",
-        "images/template-images/cloud-image-6.jpg",
-        "images/template-images/cloud-image-7.jpg",
-        "images/template-images/cloud-image-8.jpg",
-        "images/template-images/cloud-image-9.jpg",
-        "images/template-images/cloud-image-10.jpg"
+        "images/template-images/store-image-1.jpg",
+        "images/template-images/store-image-2.jpg",
+        "images/template-images/store-image-3.jpg",
+        "images/template-images/store-image-4.jpg",
+        "images/template-images/store-image-5.jpg",
+        "images/template-images/store-image-6.jpg",
+        "images/template-images/store-image-7.jpg",
+        "images/template-images/store-image-8.jpg",
+        "images/template-images/store-image-9.jpg",
+        "images/template-images/store-image-10.jpg"
     ],
     "colorSwatches":
     {
@@ -118,11 +118,11 @@
     },
     "styles": {
         "colors": {
-            "color__primary": "#167c80",
+            "color__primary": "#000000",
             "color__secondary": "#f5f6f7"
         },
         "site": {
-            "color__body--background": "#F7F5F2",
+            "color__body--background": "#e2e2e2",
             "color__container--background": "#fff",
             "color__link--text": "@color__primary",
             "font__companyname--font-family": "@font-swatch10-font-family",
