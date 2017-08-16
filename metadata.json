@@ -1,7 +1,7 @@
 {
     "name":"Passion",
     "widgetVersion": 2,
-    "thumbnail":"passion.png",
+    "thumbnail":"thumbnail.png",
     "pageTypes": [ "home" ],
     "screenshot":"passion-screenshot.jpg",
     "images":[
